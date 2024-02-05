@@ -1,4 +1,7 @@
 # Unauthorized-Remote-Access-Powershell
+## PROJECT DESIGN AND ARCHITECTURE
+![image](https://github.com/NitinSharma973/Unauthorized-Remote-Access-Powershell-/assets/89895011/43b0828f-17e8-4d30-9047-3fa4c88c3481)
+
 ## IMPLEMENTATION
 Running Powershell Empire:
 First we make a Empire server that store a information of service are currently listening on my local machine which the help of powershell-empire server command.
